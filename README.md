@@ -67,5 +67,4 @@ A full suite of enterprise services is configured on dedicated servers:
 │   └── Project_Files/        # Cisco Packet Tracer (.pkt) files
 ├── Project_Report_Final.docx # The complete, detailed project report
 ├── Project_Report_Final.pdf  # PDF version of the report
-└── README.md                 # This file
 ```
