@@ -6,12 +6,24 @@ The full documentation, `Project_Report_Final.docx`, contains all topology diagr
 
 ## Network Overview
 
- <img src="https://github.com/hh1205hh/Enterprise-Network-Design-and-Deployment-/blob/main/MainTopolView">
+<p align="center">
+  <a href="https://github.com/hh1205hh/Enterprise-Network-Design-and-Deployment-/blob/main/MainTopolView">
+    <img src="https://github.com/hh1205hh/Enterprise-Network-Design-and-Deployment-/blob/main/MainTopolView" width="850" alt="Main Topology View">
+  </a>
+  <br>
+  <em><strong>Figure 1:</strong> Main topology view of the Mentora Nexus enterprise network.</em>
+</p>
 
 The "Mentora Nexus" network consists of a main branch (Codeport) and two additional branches (TechVista and NeoCyberia), all interconnected via an ISP framework.
 
- <img src="https://github.com/hh1205hh/Enterprise-Network-Design-and-Deployment-/blob/main/ImagesEN/Screenshot%202026-02-21%20103756.png">
- 
+<p align="center">
+  <a href="https://github.com/hh1205hh/Enterprise-Network-Design-and-Deployment-/blob/main/ImagesEN/Screenshot%202026-02-21%20103756.png">
+    <img src="https://github.com/hh1205hh/Enterprise-Network-Design-and-Deployment-/blob/main/ImagesEN/Screenshot%202026-02-21%20103756.png" width="850" alt="Intra-Branch Network Architecture">
+  </a>
+  <br>
+  <em><strong>Figure 2:</strong> Intra-branch network architecture of the primary headquarters, detailing the Layer 2/Layer 3 interconnections and switch deployments across a three-floor campus layout.</em>
+</p>
+
   * **Codeport (Main Branch):** The central hub, hosting the company's primary web, mail, and DNS servers.
   * **TechVista Branch:** A standard branch office.
   * **NeoCyberia Branch:** A second standard branch office.
@@ -29,7 +41,13 @@ This project serves as a practical demonstration of a wide range of networking c
 
 ### Security
 
-<img src="ImagesEN/Screenshot%202026-02-21%20103817.png">
+<p align="center">
+  <a href="ImagesEN/Screenshot%202026-02-21%20103817.png">
+    <img src="ImagesEN/Screenshot%202026-02-21%20103817.png" width="850" alt="Security Implementation">
+  </a>
+  <br>
+  <em><strong>Figure 3:</strong> Security implementation featuring IPsec VPN and GRE tunnels.</em>
+</p>
 
   * **IPsec VPN (Site-to-Site):** Secure tunnels are built between all three branches to protect data in transit over the public ISP network.
   * **GRE Tunnels:** Used in conjunction with IPsec to route dynamic routing protocols (OSPF) securely between sites.
