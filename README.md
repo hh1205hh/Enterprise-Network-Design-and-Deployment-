@@ -7,7 +7,7 @@ The full documentation, `Project_Report_Final.docx`, contains all topology diagr
 ## Network Overview
 
 <figure>
- <img src="">
+ <img src=""C:\Users\HOME\OneDrive\תמונות\צילומי מסך\Screenshot 2025-03-19 172253.png"">
  <figcaption>A topological view of the network</figcaption>
 </figure>
 
