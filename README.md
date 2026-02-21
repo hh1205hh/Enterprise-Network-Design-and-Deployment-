@@ -79,16 +79,3 @@ A full suite of enterprise services is configured on dedicated servers:
 2.  **Project Files:** The primary simulation files are located in the `Network_Simulation/Project_Files/` directory.
 3.  **Documentation:** The complete **`Project_Report_Final.docx`** is the main guide. It contains all logical/physical topologies, IP allocation tables, device credentials, and detailed explanations for all configurations.
 4.  **Config Snippets:** The `Devices_Configurations/` directory contains `.docx` files with configuration excerpts for specific technologies (BGP, IPsec, etc.) for quick reference.
-
-## Repository Structure
-
-```
-├── Devices_Configurations/   # Standalone config files for BGP, GRE, IPsec, etc.
-├── Net_concepts/             # Q&A doc for networking concepts
-├── Network_Requirements/     # Initial requirements and organizational charts
-├── Network_Simulation/
-│   ├── Images/             # Topology diagrams, maps, and logos
-│   └── Project_Files/        # Cisco Packet Tracer (.pkt) files
-├── Project_Report_Final.docx # The complete, detailed project report
-├── Project_Report_Final.pdf  # PDF version of the report
-```
