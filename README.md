@@ -6,7 +6,7 @@ The full documentation, `Project_Report_Final.docx`, contains all topology diagr
 
 ## Network Overview
 
- <img src="Screenshot 2025-03-19 172253.png">
+ <img src="MainTopolView.png">
 
 The "Mentora Nexus" network consists of a main branch (Codeport) and two additional branches (TechVista and NeoCyberia), all interconnected via an ISP framework.
 
