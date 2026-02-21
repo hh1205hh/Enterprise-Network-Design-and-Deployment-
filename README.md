@@ -29,6 +29,8 @@ This project serves as a practical demonstration of a wide range of networking c
 
 ### Security
 
+<img src="ImagesEN/Screenshot%202026-02-21%20103817.png">
+
   * **IPsec VPN (Site-to-Site):** Secure tunnels are built between all three branches to protect data in transit over the public ISP network.
   * **GRE Tunnels:** Used in conjunction with IPsec to route dynamic routing protocols (OSPF) securely between sites.
   * **AAA (Authentication, Authorization, & Accounting):** TACACS+ is configured for centralized and secure device management and login.
